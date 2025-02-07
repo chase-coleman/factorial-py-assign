@@ -1,4 +1,4 @@
-# factorials cant be negative or zero
+# factorials cant be negative
 def factorial(n):
     if n < 0: return "Factorials can only be positive integers!"
     sum = 1
